@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=600&lines=AI+Specialist+%7C+Business+Analyst+(BA)+%7C+Data+Analyst+(DA);Computer+Science+Grad+(Distinction)+%40QUT;Incoming+Master's+Student+%40Stockholm+Uni;Data-Driven+AI+Solutions+%2B+Business+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2E90FA&center=true&vCenter=true&width=750&lines=AI+Specialist+%7C+Business+Analyst+%7C+Data+Analyst;CS+Grad+(Distinction)+%40+QUT;Incoming+Master's+Student+%40+Stockholm+Uni;Data-Driven+AI+Solutions+%2B+Business+Intelligence)](https://git.io/typing-svg)
 
 ---
 
@@ -19,23 +19,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile Executive Summary
 
-🎓 **Graduated with Distinction** in Computer Science from **Queensland University of Technology (QUT)** (GPA: 6.167 / 7.0).  
+🎓 **Bachelor of IT (Computer Science) — Graduated with Distinction** from **Queensland University of Technology (QUT)** (GPA: 6.167 / 7.0).  
 🎓 Incoming Master's Student in **AI and Language** at **Stockholm University**, Sweden (2026–2028).  
-🏆 **"5-Good Student" National/SVAU Award Winner (2026)** — Top honor recognizing Academic Excellence, Ethics, Physicality, Volunteering, and International Integration.  
-💡 Passionate about combining **Artificial Intelligence (AI)**, **Business Analysis (BA)**, and **Data Analytics (DA)** to translate complex enterprise requirements into scalable, data-driven, and interpretable AI products.
+🏆 **"5-Good Student" National/SVAU Award Winner (2026)** — Highest Vietnamese student honor for Academic Excellence, Ethics, Physicality, Volunteering, and International Integration.  
+💡 Passionate about integrating **Artificial Intelligence (AI)**, **Business Analysis (BA)**, and **Data Analytics (DA)** to translate complex enterprise requirements into scalable, data-driven, and interpretable AI products.
 
 ---
 
-## 🛠️ Core Competencies & Tech Stack
+## 🛠️ Core Competencies & Technical Skills
 
 ### 📈 **Business Analysis (BA) & Business Intelligence (BI)**
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Google BI](https://img.shields.io/badge/Google_BI_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google PM](https://img.shields.io/badge/Google_Project_Management-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-* **Requirements & Strategy:** Stakeholder Elicitation, User Stories, Process Mining (WoPeD, Petri Nets), KPI & Metrics Framework Design.
-* **Domain Alignment:** Business Process Optimization, IT Governance & SLA Analysis, Government & Healthcare Domain Modeling.
+* **Requirements Elicitation & Management:** User Stories, Stakeholder Interviews, Functional Specifications, Process Mining (WoPeD, Petri Nets).
+* **Metrics & Strategy:** KPI & Metric Framework Design, Business Process Optimization, IT Governance & SLA Analysis, Government & Healthcare Domain Modeling.
 
 ### 📊 **Data Analytics (DA) & Data Engineering**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,8 +43,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_(MySQL%2FMariaDB%2FPostgres)-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Data_Viz_(Recharts%2FTailwind)-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white)
-* **Analytics & Modeling:** Exploratory Data Analysis (EDA), Regex Data Ingestion Pipelines, Clinical EHR Data Mining (MIMIC-III).
-* **Knowledge Graphs:** Dual-Ontology Knowledge Sieves combining PrimeKG and UMLS medical ontologies.
+* **Data Pipelines & Analytics:** Exploratory Data Analysis (EDA), Automated Regex Ingestion & Normalization, Clinical EHR Mining (MIMIC-III).
+* **Knowledge Systems:** Dual-Ontology Knowledge Sieves combining PrimeKG and UMLS medical ontologies.
 
 ### 🤖 **Artificial Intelligence & LLMs**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -52,25 +52,26 @@
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Explainable AI](https://img.shields.io/badge/Explainable_AI_(EBM%2FSHAP)-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-* **LLM Engineering:** PEFT/LoRA Fine-Tuning (Qwen-1.7B), SOTA 4-Tier Guardrails (Unicode NFKD Normalization, Cosine Drift Monitoring), Chain-of-Thought (CoT) Prompt Pipelines.
+* **LLM Engineering & Safety:** PEFT/LoRA Fine-Tuning (Qwen-1.7B), SOTA 4-Tier Guardrail Defense (Unicode NFKD Normalization, Embedding Cosine Drift Monitoring), Chain-of-Thought (CoT) Prompt Pipelines.
 
-### 💻 **Full-Stack, Cloud & QA**
+### 💻 **Full-Stack Microservices, Cloud & QA**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS_(S3%2FEC2%2FCognito)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(S3%2FEC2%2FCognito%2FSSM)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ---
 
-## ⚡ Featured Projects
+## ⚡ Featured High-Impact Projects
 
 ### 📊 [GovAnalytics Dashboard — Digital Transformation Agency (DTA) Capstone](https://frontend-two-alpha-emm3g3v96q.vercel.app/)
-> **Role:** Business Analyst & Frontend Developer | **Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Recharts, AWS, Playwright, Vitest
+> **Role:** Business Analyst & Frontend Engineer | **Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Recharts, AWS, Playwright, Vitest
 * **Business Analysis:** Defined project KPIs, stakeholder reporting requirements, and user experience flows for public & internal government ICT monitoring.
 * **Data Analysis & Pipelines:** Engineered regex data normalization rules to clean and unify heterogeneous financial and date formats from raw `data.gov.au` datasets.
-* **Quality Assurance:** Built automated **Playwright E2E** and **Vitest unit test** suites ensuring 100% operational reliability and WAI-ARIA accessibility.
+* **Quality Assurance:** Built automated **Playwright E2E** and **Vitest unit test** suites ensuring 100% operational reliability and WAI-ARIA accessibility compliance.
 
 ---
 
@@ -83,7 +84,7 @@
 
 ### 🧠 [KGID Framework — Clinical Data Science & Explainable AI (XAI) Research](https://github.com/danglinhphan)
 > **Role:** Lead AI & Data Researcher | **Tech:** PyTorch, PrimeKG, UMLS, EBM/GA2M, InterpretML, Llama-3-Med42-8B, MIMIC-III EHR
-* **Data Science & Knowledge Graphs:** Invented a 3-phase clinical AI pipeline combining a **Dual-Ontology Knowledge Sieve** (PrimeKG + UMLS), pruning feature interaction search space by **99.7%**.
+* **Data Science & Knowledge Graphs:** Invented a 3-phase clinical AI pipeline combining a **Dual-Ontology Knowledge Sieve** (PrimeKG + UMLS), pruning feature interaction candidate search space by **99.7%**.
 * **Interpretable AI & Modeling:** Achieved **Precision: 0.859, F1: 0.812** using Explainable Boosting Machines (EBM) and built a **Llama-3 Chain-of-Thought (CoT)** pipeline to translate quantitative weights into clinician-friendly narrative reports.
 * Paper submitted to Springer *Applied Intelligence*. CITI Program Ethics Certified.
 
@@ -96,10 +97,10 @@
 
 ---
 
-## 🏆 Honors & Certifications
+## 🏆 Honors, Awards & Certifications
 
 * 🎓 **Google Professional Certificates**: Data Analytics, Business Intelligence (BI), Project Management
-* 🏅 **"5-Good Student" National/SVAU Award (2026)**
+* 🏅 **"5-Good Student" National/SVAU Award (2026)** — Top student honor across Academic, Ethical, Physical, Volunteer, and Integration criteria.
 * 🥇 **First Prize — QVS2C2 Competition (2026)** & **Second Prize — Cultural Writing (2026)**
 * 📜 **QUT Dean's Commendation for Academic Excellence (2023)** & **QUT International Merit Scholarship (2023–2026)**
 * 🛡️ **CITI Program Ethics Certified**: Human Subjects Research / Good Clinical Practice (GCP)
