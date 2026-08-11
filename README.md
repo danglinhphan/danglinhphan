@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=600&lines=AI+Implementor+%7C+AI+Engineer;Computer+Science+Grad+(Distinction)+%40QUT;Incoming+Master's+Student+%40Stockholm+Uni;LLM+Fine-Tuning+%2B+Production+Guardrails)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=600&lines=AI+Specialist+%7C+Business+Analyst+(BA)+%7C+Data+Analyst+(DA);Computer+Science+Grad+(Distinction)+%40QUT;Incoming+Master's+Student+%40Stockholm+Uni;Data-Driven+AI+Solutions+%2B+Business+Intelligence)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 AI Implementor & Computer Science Graduate (Distinction @ QUT)
-*Bridging the gap between cutting-edge LLM research and production-grade software applications.*
+### 🚀 AI Specialist | Business Analyst (BA) | Data Analyst (DA)
+*Bridging business domain requirements, advanced data analytics, and production-grade AI solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dang-linh-phan-257a12311/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danglinhphan)
@@ -23,80 +23,84 @@
 🎓 **Graduated with Distinction** in Computer Science from **Queensland University of Technology (QUT)** (GPA: 6.167 / 7.0).  
 🎓 Incoming Master's Student in **AI and Language** at **Stockholm University**, Sweden (2026–2028).  
 🏆 **"5-Good Student" National/SVAU Award Winner (2026)** — Top honor recognizing Academic Excellence, Ethics, Physicality, Volunteering, and International Integration.  
-💡 Specializing in **LLM Fine-Tuning (PEFT/LoRA)**, **SOTA AI Safety Guardrails**, **FastAPI/Next.js Microservices**, and **Explainable AI (XAI)**.
+💡 Passionate about combining **Artificial Intelligence (AI)**, **Business Analysis (BA)**, and **Data Analytics (DA)** to translate complex enterprise requirements into scalable, data-driven, and interpretable AI products.
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## 🛠️ Core Competencies & Tech Stack
 
-### **AI & Machine Learning**
+### 📈 **Business Analysis (BA) & Business Intelligence (BI)**
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google BI](https://img.shields.io/badge/Google_BI_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google PM](https://img.shields.io/badge/Google_Project_Management-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+* **Requirements & Strategy:** Stakeholder Elicitation, User Stories, Process Mining (WoPeD, Petri Nets), KPI & Metrics Framework Design.
+* **Domain Alignment:** Business Process Optimization, IT Governance & SLA Analysis, Government & Healthcare Domain Modeling.
+
+### 📊 **Data Analytics (DA) & Data Engineering**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(MySQL%2FMariaDB%2FPostgres)-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Recharts](https://img.shields.io/badge/Data_Viz_(Recharts%2FTailwind)-22C55E?style=for-the-badge&logo=chartdotjs&logoColor=white)
+* **Analytics & Modeling:** Exploratory Data Analysis (EDA), Regex Data Ingestion Pipelines, Clinical EHR Data Mining (MIMIC-III).
+* **Knowledge Graphs:** Dual-Ontology Knowledge Sieves combining PrimeKG and UMLS medical ontologies.
+
+### 🤖 **Artificial Intelligence & LLMs**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI_(EBM%2FSHAP)-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* **LLM Engineering:** PEFT/LoRA Fine-Tuning (Qwen-1.7B), SOTA 4-Tier Guardrails (Unicode NFKD Normalization, Cosine Drift Monitoring), Chain-of-Thought (CoT) Prompt Pipelines.
 
-### **Full-Stack & Microservices**
+### 💻 **Full-Stack, Cloud & QA**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Cloud, DevOps & Databases**
-![AWS](https://img.shields.io/badge/AWS_(S3/EC2/Cognito/ECR)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(S3%2FEC2%2FCognito)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### **Testing & Quality Assurance**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![k6](https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
 
 ## ⚡ Featured Projects
 
-### 🏥 [Healthcare for Real — Fine-Tuned LLM & Scalable Microservice](https://github.com/danglinhphan/Health-Care-For-Real)
-> **Tech Stack:** Python, PyTorch, PEFT/LoRA, Qwen-1.7B, FastAPI, Next.js, Redis, MariaDB, AWS S3/Cognito/ECR, Docker Compose, k6
-* Fine-tuned **Qwen-1.7B** with PEFT/LoRA adapters on medical QA datasets using PyTorch & Hugging Face.
-* Served adapter weights via **FastAPI** with response streaming and Redis cache-aside optimization.
-* Containerized full-stack microservices via Docker Compose and deployed to **AWS EC2** with Parameter Store configuration and **k6** load testing.
-
----
-
-### 🛡️ [SOTA LLM Safety Guardrail System](https://github.com/danglinhphan/IFB220)
-> **Tech Stack:** Python, Azure OpenAI (GPT-4.1-mini, text-embedding-ada-002), tiktoken, Rich, Heuristic Rules
-* Production-grade **4-tier Guardrail Defense Pipeline**: Unicode NFKD character normalization against homoglyph/leetspeak prompt injection attacks, regex heuristics, embedding cosine similarity drift monitoring, and intent auditing.
-* Integrated `tiktoken` (`cl100k_base`) context window management with **Recursive Context Summarization**.
-* Achieved **100% safety accuracy** across 25+ adversarial attack test suites (`outstanding_e2e_test.py`).
-
----
-
 ### 📊 [GovAnalytics Dashboard — Digital Transformation Agency (DTA) Capstone](https://frontend-two-alpha-emm3g3v96q.vercel.app/)
-> **Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Recharts, AWS S3/Lambda, Playwright, Vitest
-* Developed a responsive ICT analytics dashboard for the Australian Digital Transformation Agency (DTA) visualizing government project metrics from `data.gov.au`.
-* Engineered regex data normalization pipelines and automated testing suites using **Playwright E2E** and **Vitest**.
+> **Role:** Business Analyst & Frontend Developer | **Tech:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Recharts, AWS, Playwright, Vitest
+* **Business Analysis:** Defined project KPIs, stakeholder reporting requirements, and user experience flows for public & internal government ICT monitoring.
+* **Data Analysis & Pipelines:** Engineered regex data normalization rules to clean and unify heterogeneous financial and date formats from raw `data.gov.au` datasets.
+* **Quality Assurance:** Built automated **Playwright E2E** and **Vitest unit test** suites ensuring 100% operational reliability and WAI-ARIA accessibility.
 
 ---
 
-### 🧠 [KGID Framework — Explainable AI (XAI) Research](https://github.com/danglinhphan)
-> **Tech Stack:** PyTorch, PrimeKG, UMLS, EBM/GA2M, InterpretML, Llama-3-Med42-8B, MIMIC-III EHR
-* Invented a 3-phase interpretable ICU readmission framework using a **Dual-Ontology Knowledge Sieve** (PrimeKG + UMLS), pruning feature interaction candidate pairs by **99.7%**.
-* Achieved **Precision: 0.859, F1: 0.812** using Explainable Boosting Machines (EBM) and engineered a **Llama-3 Chain-of-Thought (CoT)** pipeline to translate mathematical weights into doctor-friendly narrative explanations.
+### 🏥 [Healthcare for Real — Fine-Tuned LLM & Scalable Microservice System](https://github.com/danglinhphan/Health-Care-For-Real)
+> **Role:** AI & Backend Engineer | **Tech:** Python, PyTorch, PEFT/LoRA, Qwen-1.7B, FastAPI, Next.js, Redis, MariaDB, AWS, Docker Compose, k6
+* **AI Implementation:** Fine-tuned **Qwen-1.7B** with PEFT/LoRA adapters on medical QA datasets using PyTorch & Hugging Face; served adapter weights via **FastAPI** with Redis cache-aside acceleration.
+* **System Architecture:** Orchestrated containerized microservices via Docker Compose and deployed onto **AWS EC2** with Amazon Cognito auth and **k6** load testing.
+
+---
+
+### 🧠 [KGID Framework — Clinical Data Science & Explainable AI (XAI) Research](https://github.com/danglinhphan)
+> **Role:** Lead AI & Data Researcher | **Tech:** PyTorch, PrimeKG, UMLS, EBM/GA2M, InterpretML, Llama-3-Med42-8B, MIMIC-III EHR
+* **Data Science & Knowledge Graphs:** Invented a 3-phase clinical AI pipeline combining a **Dual-Ontology Knowledge Sieve** (PrimeKG + UMLS), pruning feature interaction search space by **99.7%**.
+* **Interpretable AI & Modeling:** Achieved **Precision: 0.859, F1: 0.812** using Explainable Boosting Machines (EBM) and built a **Llama-3 Chain-of-Thought (CoT)** pipeline to translate quantitative weights into clinician-friendly narrative reports.
 * Paper submitted to Springer *Applied Intelligence*. CITI Program Ethics Certified.
+
+---
+
+### 🛡️ [SOTA LLM Safety Guardrail System — Enterprise AI Defense](https://github.com/danglinhphan/IFB220)
+> **Role:** AI Safety Analyst | **Tech:** Python, Azure OpenAI (GPT-4.1-mini, text-embedding-ada-002), tiktoken, Rich
+* **Enterprise AI Security:** Architected a **4-tier Guardrail Defense Pipeline**: Unicode NFKD character normalization against homoglyph/leetspeak attacks, regex heuristics, embedding-based cosine similarity drift monitoring, and intent auditing.
+* Achieved **100% safety accuracy** across 25+ adversarial attack test suites with recursive context window summarization.
 
 ---
 
 ## 🏆 Honors & Certifications
 
+* 🎓 **Google Professional Certificates**: Data Analytics, Business Intelligence (BI), Project Management
 * 🏅 **"5-Good Student" National/SVAU Award (2026)**
 * 🥇 **First Prize — QVS2C2 Competition (2026)** & **Second Prize — Cultural Writing (2026)**
 * 📜 **QUT Dean's Commendation for Academic Excellence (2023)** & **QUT International Merit Scholarship (2023–2026)**
-* 🎓 **Google Professional Certificates**: Project Management, Data Analytics, Business Intelligence
 * 🛡️ **CITI Program Ethics Certified**: Human Subjects Research / Good Clinical Practice (GCP)
 
 ---
