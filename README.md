@@ -13,6 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danglinhphan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danglinhphanfw@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-two-alpha-emm3g3v96q.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=danglinhphan&color=009688&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -105,14 +106,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity & Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danglinhphan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danglinhphan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+[![Dang Linh's GitHub Streak](https://streak-stats.demolab.com/?user=danglinhphan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danglinhphan&theme=tokyonight&hide_border=true" width="97%" />
+[![Dang Linh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danglinhphan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -120,7 +120,11 @@
 
 <div align="center">
 
-📫 **Let's Connect!**  
-[Email](mailto:danglinhphanfw@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dang-linh-phan-257a12311/) • [GitHub](https://github.com/danglinhphan) • [Portfolio](https://frontend-two-alpha-emm3g3v96q.vercel.app/)
+### 🤝 Let's Connect & Collaborate!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dang-linh-phan-257a12311/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danglinhphanfw@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danglinhphan)
+[![Portfolio](https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-two-alpha-emm3g3v96q.vercel.app/)
 
 </div>
