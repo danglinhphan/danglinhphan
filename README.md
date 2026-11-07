@@ -90,7 +90,7 @@
 
 ---
 
-### 🛡️ [SOTA LLM Safety Guardrail System — Enterprise AI Defense](https://github.com/danglinhphan/IFB220)
+### 🛡️ [SOTA LLM Safety Guardrail System — Enterprise AI Defense](https://github.com/danglinhphan/Prompt-Injection-Guardrail)
 > **Role:** AI Safety Analyst | **Tech:** Python, Azure OpenAI (GPT-4.1-mini, text-embedding-ada-002), tiktoken, Rich
 * **Enterprise AI Security:** Architected a **4-tier Guardrail Defense Pipeline**: Unicode NFKD character normalization against homoglyph/leetspeak attacks, regex heuristics, embedding-based cosine similarity drift monitoring, and intent auditing.
 * Achieved **100% safety accuracy** across 25+ adversarial attack test suites with recursive context window summarization.
