@@ -52,7 +52,7 @@
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Explainable AI](https://img.shields.io/badge/Explainable_AI_(EBM%2FSHAP)-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-* **LLM Engineering & Safety:** PEFT/LoRA Fine-Tuning (Qwen-1.7B), SOTA 4-Tier Guardrail Defense (Unicode NFKD Normalization, Embedding Cosine Drift Monitoring), Chain-of-Thought (CoT) Prompt Pipelines.
+* **LLM Engineering & Safety:** PEFT/LoRA Fine-Tuning (Qwen-1.7B, DistilBERT), Dual-Tier Guardrail Defense (Sub-10ms TF-IDF + DistilBERT LoRA, Unicode Normalization), Integrated Gradients (XAI), Chain-of-Thought (CoT) Prompt Pipelines.
 
 ### 💻 **Full-Stack Microservices, Cloud & QA**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -90,10 +90,11 @@
 
 ---
 
-### 🛡️ [SOTA LLM Safety Guardrail System — Enterprise AI Defense](https://github.com/danglinhphan/Prompt-Injection-Guardrail)
-> **Role:** AI Safety Analyst | **Tech:** Python, Azure OpenAI (GPT-4.1-mini, text-embedding-ada-002), tiktoken, Rich
-* **Enterprise AI Security:** Architected a **4-tier Guardrail Defense Pipeline**: Unicode NFKD character normalization against homoglyph/leetspeak attacks, regex heuristics, embedding-based cosine similarity drift monitoring, and intent auditing.
-* Achieved **100% safety accuracy** across 25+ adversarial attack test suites with recursive context window summarization.
+### 🛡️ [Prompt Injection Guardrail — Multilingual LLM Defense & Explainable AI](https://github.com/danglinhphan/Prompt-Injection-Guardrail)
+> **Role:** AI Safety & Security Researcher | **Tech:** Python, PyTorch, DistilBERT + LoRA, TF-IDF, Integrated Gradients (XAI), FastAPI
+* **Dual-Tier Defense Architecture:** Architected a production-ready guardrail framework combining **Tier 1 (TF-IDF + LR)** for sub-10ms high-speed character-level detection and **Tier 2 (DistilBERT + LoRA)** for deep semantic analysis of adversarial injection attacks.
+* **Explainable AI (XAI) & Auditability:** Integrated token-level risk attribution using **Integrated Gradients** (satisfying the Completeness axiom for security auditing) and a Unicode normalization layer resolving homoglyphs, leetspeak, and spacing noise.
+* **Multilingual Benchmark:** Fine-tuned for **English & Vietnamese** adversarial attack scenarios, achieving **98.9% accuracy** and minimizing False Negative Rate (FNR) to **0.7%** on holdout test sets.
 
 ---
 
