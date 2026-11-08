@@ -101,7 +101,7 @@
 
 ---
 
-### 🎵 [Parallelized Audio Sensing & Spectrogram Pipeline](https://github.com/danglinhphan)
+### 🎵 [Parallelized Audio Sensing & Spectrogram Pipeline](https://github.com/danglinhphan/Parallel-Audio-Spectrogram-Pipeline)
 > **Role:** Creative Systems Engineer | **Tech:** C#, .NET 9.0, CUDA cuFFT, NAudio, Parallel.For, Real-time Graphics
 * **GPU-Accelerated Signal Processing:** Parallelized continuous audio signal transforms using **CUDA cuFFT** with pinned host-device double-buffering, achieving a **10–20× speedup** over optimized serial CPU baselines.
 * **Low-Latency Streaming:** Generates 60 FPS real-time time-frequency spectrogram features with sub-10ms streaming latency and dynamic GPU/CPU fallback.
