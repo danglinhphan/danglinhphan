@@ -77,6 +77,15 @@
 
 ---
 
+### 🏥 [Health-Care-For-Real (HC4R) — Clinical Instruction LLM & Full-Stack Serving Architecture](https://github.com/danglinhphan/Health-Care-For-Real)
+> **Role:** Lead Machine Learning & Systems Engineer | **Tech:** PyTorch, PEFT (LoRA), Qwen-1.7B, Dynamic Epoch Sampling, FastAPI, Docker Compose, MariaDB, Next.js, TypeScript
+* **Clinical Instruction Fine-Tuning:** Parameter-efficient fine-tuning (PEFT/LoRA) of `Qwen/Qwen3-1.7B` on the clinical instruction corpus `axiong/pmc_llama_instructions` (513,999 clinical instruction samples from PubMed Central).
+* **Novel Dynamic Epoch-Sampling:** Engineered an adaptive sampling strategy (`epoch_sampling_strategy.py`) drawing a 10% stratified subset (51,399 samples) per epoch, mitigating GPU VRAM hardware bottlenecks on RTX 4090 while regularizing training to prevent overfitting.
+* **Gemini API-Compatible Serving Engine:** Developed an enterprise inference microservice in FastAPI using BF16 precision, real-time token streaming, token usage tracking, and a RESTful interface engineered as a direct drop-in replacement for the Google Gemini API.
+* **Full-Stack Containerized Architecture:** Deployed a multi-tier production environment via Docker Compose spanning the GPU inference engine, a FastAPI backend with JWT security & rate limiting, MariaDB persistent conversation storage, and an interactive Next.js conversational frontend with clinical disclaimers.
+
+---
+
 ### 🛡️ [Prompt-Injection-Guardrail — Multilingual AI Safety & Token Attribution](https://github.com/danglinhphan/Prompt-Injection-Guardrail)
 > **Role:** AI Safety Researcher | **Tech:** Python, PyTorch, DistilBERT + LoRA, TF-IDF, Integrated Gradients (XAI), FastAPI
 * **Dual-Tier Defense Architecture:** Architected a production-ready safety guardrail: Tier 1 (TF-IDF + LR) for sub-10ms lexical anomaly detection and Tier 2 (DistilBERT + LoRA) for deep semantic analysis of adversarial injection attacks.
