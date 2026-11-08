@@ -22,7 +22,7 @@
 ## 👨‍💻 Academic & Research Executive Summary
 
 🎓 **Master of Science in AI and Language** — **Stockholm University (SU)**, Sweden (2026–2028).  
-&nbsp;&nbsp;&nbsp;&nbsp;*Jointly hosted by the Department of Linguistics & Department of Computer and Systems Sciences (DSV).*  
+&nbsp;&nbsp;&nbsp;&nbsp;*Department of Linguistics.*  
 &nbsp;&nbsp;&nbsp;&nbsp;*Research Focus: Natural Language Understanding (NLU), Speech Signal Processing, Statistical Machine Learning, Computational Linguistics.*  
 🎓 **Bachelor of Information Technology (Computer Science)** — **Graduated with Distinction** from **Queensland University of Technology (QUT)** (GPA: 6.167 / 7.0).  
 🏆 **"5-Good Student" (Sinh Viên 5 Tốt) National Award Winner (2026)** — Highest Vietnamese student honor across Academic Excellence, Ethics, Physical Fitness, Volunteering, and International Integration.  
